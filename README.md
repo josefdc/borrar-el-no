@@ -4,7 +4,7 @@ Charla para DevFest Pereira 2026 · José Felipe Duarte ([github.com/josefdc](ht
 
 [![Portada de la charla](img/portada.jpg)](slides/borrar-el-no.pdf)
 
-**[Descargar las diapositivas (PDF, 30 páginas)](slides/borrar-el-no.pdf)**
+**[Descargar las diapositivas (PDF, 30 páginas)](slides/borrar-el-no.pdf)** · [versión animada (HTML)](#versión-animada)
 
 ## De qué trata
 
@@ -149,9 +149,24 @@ Límites, dichos en voz alta: son 20 pedidos de una línea y una sola pasada. Il
 4. Evalúa en español y con respuestas largas: el no cambia entre idiomas y a veces llega tarde.
 5. Ten un modelo abierto listo para tus incidentes, probado antes de necesitarlo.
 
+## Versión animada
+
+`presentacion/borrar-el-no.html` es la charla tal como se presenta: un solo archivo, con las animaciones y las tipografías incluidas, que funciona sin internet.
+
+1. Descárgalo (botón "Download raw file" en GitHub) y ábrelo en Chrome.
+2. Teclas: `→` siguiente paso · `←` diapositiva anterior · `F` pantalla completa · `P` ventana de presentador (notas y reloj) · `B` pantalla en negro · número + `Enter` para saltar a una diapositiva.
+3. Con `?static` al final de la dirección se ve cada diapositiva en su estado final, sin animación.
+
+Incluye las notas de orador, que son el guion de la charla.
+
 ## Sobre este repositorio
 
 - `slides/borrar-el-no.pdf`: las 30 diapositivas en su estado final.
+- `presentacion/borrar-el-no.html`: la versión animada.
 - Las traducciones de citas son propias.
 - Tipografías de las diapositivas: Space Grotesk, IBM Plex Sans, IBM Plex Mono y Caveat (todas con licencia SIL Open Font License).
 - Si encuentras un dato mal citado o un enlace caído, abre un issue.
+
+## Licencia
+
+Las diapositivas y el texto de este repositorio son de José Felipe Duarte y se publican bajo [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es): puedes compartirlos y adaptarlos, incluso con fines comerciales, citando la autoría. Las citas, cifras y nombres de terceros pertenecen a sus autores; las tipografías incluidas conservan su propia licencia (SIL Open Font License).
